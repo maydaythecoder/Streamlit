@@ -23,7 +23,7 @@ This is a Streamlit application that calculates mortgage repayments based on use
 pip install streamlit
 ```
 ```
-   pip install pandas
+pip install pandas
 ```
 2. Save the provided code as a Python file (e.g., `mortgage_calculator.py`).
 3. Run the Streamlit app:
